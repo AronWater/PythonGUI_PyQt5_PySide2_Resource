@@ -2,9 +2,25 @@
 ## Source : https://wiki.qt.io/Qt_for_Python_Tutorial:_Data_Visualization_Tool
 
 
-## I modify 1 place in the code
 
-# I have add the following 
+# Comment and Summary
+Main: PySide2.QtWidgets.QHBoxLayout  ,  and then call the addwidget function to add the 
+
+1. PySide2.QtWidgets.QTableView  and   
+
+2. QtCharts.QChartView 
+      
+   takes the QtCharts.QChart as the input 
+   and then add the axis by calling addAxis on the QChart object.
+   
+
+
+
+
+
+
+
+## I modify 1 place in the code, I have add the following 
 
 ```python
 import os
