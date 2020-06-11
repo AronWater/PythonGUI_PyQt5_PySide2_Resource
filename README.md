@@ -24,4 +24,7 @@ Navigating you to some popular pythonGUI resource.
 | --- | ---  |
 | [examples](https://github.com/pyqt/examples)   |  quite comprehensive |
 | [PyQt5-Apps](https://github.com/taseikyo/PyQt5-Apps)   |  Some more advanced and larger scale examples   |
+| [vnpy](https://github.com/vnpy/vnpy) | Highly integrate pyqt5 into the trading system. Use QtWidgets.QDockWidget extensively |
+
+
 
