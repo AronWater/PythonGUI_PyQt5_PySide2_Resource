@@ -10,3 +10,9 @@ Almost the same except the author,license.
 
 
 
+## Some resources
+| Repo | Description |
+| --- | ---  |
+| [examples](https://github.com/pyqt/examples)   |  quite comprehensive |
+| [PyQt5-Apps](https://github.com/taseikyo/PyQt5-Apps)   |  Some more advanced and larger scale examples   |
+
